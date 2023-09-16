@@ -66,6 +66,13 @@ const v9 = document.getElementById("rr9");
 let f9=0;
 v9.addEventListener('click',func9);
 function func9() {
-    v9.style.backgroundColor = "#7A0000";
+    v1.style.backgroundColor = "#00407A";
+    v2.style.backgroundColor = "#00407A";
+    v3.style.backgroundColor = "#00407A";
+    v4.style.backgroundColor = "#00407A";
+    v5.style.backgroundColor = "#00407A";
+    v6.style.backgroundColor = "#00407A";
+    v7.style.backgroundColor = "#00407A";
+    v8.style.backgroundColor = "#00407A";
     f9=1;
 }
