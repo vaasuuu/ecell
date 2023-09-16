@@ -1,5 +1,4 @@
-# ECell - Task 
-
+# <h1 align="center">ECell - Task</h1>
 <p align='center'>
 <img align='center' alt='TitanMovies' height='250px' width='350px' style="border-radius:100%; " src="ECell/Screenshot 2023-09-17 021100.png" >
 </p>
